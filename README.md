@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/povedaaqui-suzieq-mcp-badge.png)](https://mseep.ai/app/povedaaqui-suzieq-mcp)
+
 # MCP Server for SuzieQ
 [![smithery badge](https://smithery.ai/badge/@PovedaAqui/suzieq-mcp)](https://smithery.ai/server/@PovedaAqui/suzieq-mcp)
 
